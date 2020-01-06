@@ -1,3 +1,3 @@
-Hello world Tuan
+Hello world Tuan {}
 Hello world Hieu
 Hello 2 ban
